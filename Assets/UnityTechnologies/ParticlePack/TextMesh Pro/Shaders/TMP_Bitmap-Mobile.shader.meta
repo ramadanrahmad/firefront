@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 295e0e22b7cf5be458b479956a728bdc
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127325
+  packageName: Particle Pack
+  packageVersion: 3.1
+  assetPath: Assets/UnityTechnologies/ParticlePack/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader
+  uploadId: 896138
